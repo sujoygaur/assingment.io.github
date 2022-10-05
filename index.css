@@ -1,0 +1,29 @@
+img{
+    height: 150px;
+    width: 100px;
+}
+h1{
+   
+    text-align: center;
+}
+.para{
+    display: flex;
+   padding-left: 10px;
+   padding-right: 10px;
+   margin-top: 30px;
+}
+.intrest{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tbl{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+th{
+    background-color: black;
+    color: white;
+}
